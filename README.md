@@ -10,5 +10,5 @@
 
 部分参考图片
 
-*关于本机
-<关于本机>!(https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/1.jpg)
+* 关于本机
+![关于本机](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/1.jpg)
