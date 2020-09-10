@@ -1,7 +1,7 @@
 ## i5-10500es-Opencore0.6.0-Hackintosh
 按照YouTube司波图大佬的装机配置采购的硬件。折腾了之后成功吃上了`Big Sur`。
 
-#硬件列表
+# 硬件列表
 
 |  配置   | 型号  |
 |  ----  | ----  |
@@ -14,11 +14,11 @@
 | 电源  | 海盗船CX430（垃圾）  |
 
 
-起初是昂达B460SD4，性价比超高。现换成微星B460M迫击炮😁，原因是昂达的BIOS太复杂，设置之后它自杀了，直接黑屏。所以千万不要去胡乱设置昂达的BIOS，以免造成不必要的麻烦。
+起初主板用的是昂达B460SD4，性价比超高。现换成微星B460M迫击炮😁，原因是昂达的BIOS太复杂，设置之后它自杀了，直接黑屏。所以千万不要去胡乱设置昂达的BIOS，以免造成不必要的麻烦。
 
 
 
-#部分图片仅供参考
+# 部分图片仅供参考
 
 * 关于本机
 ![关于本机](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/1.png)
