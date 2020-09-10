@@ -1,7 +1,7 @@
-## i5-10500es-Opencore0.6.0-Hackintosh
+# i5-10500es-Opencore0.6.0-Hackintosh
 按照YouTube司波图大佬的装机配置采购的硬件。折腾了之后成功吃上了`Big Sur`。
 
-# 硬件列表
+## 硬件列表
 
 |  配置   | 型号  |
 |  ----  | ----  |
@@ -18,7 +18,7 @@
 
 
 
-# 部分图片仅供参考
+## 部分图片仅供参考
 
 * 关于本机
 ![关于本机](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/1.png)
