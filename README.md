@@ -12,22 +12,22 @@
 部分参考图片
 
 * 关于本机
-![关于本机](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/1.png)
+![关于本机](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/1.png)
 
 * 双显卡识别
-![双显卡识别](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/2.png)
+![双显卡识别](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/2.png)
 
 * 硬件加速ok的
-![硬件加速ok的](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/3.png)
+![硬件加速ok的](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/3.png)
 
 * 各硬件信息
-![各硬件信息](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/4.png)
+![各硬件信息](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/4.png)
 
 * 仿冒显卡信息
-![仿冒显卡信息](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/5.png)
+![仿冒显卡信息](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/5.png)
 
 * CPU跑分
-![CPU跑分](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/cpu.png)
+![CPU跑分](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/cpu.png)
 
 * LuxMark跑分
-![LuxMark跑分](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/lux.png)
+![LuxMark跑分](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/screenshots/screenshots/lux.png)
