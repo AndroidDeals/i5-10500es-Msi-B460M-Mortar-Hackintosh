@@ -1,11 +1,11 @@
-# i5-10500es-Opencore0.6.0-Hackintosh
-按照YouTube司波图大佬的装机配置采购的硬件。折腾了之后成功吃上了`Big Sur`。
+# i5-10500es-Opencore0.6.1-Hackintosh
+
 
 <details>
   <summary>支持的系统版本</summary>
   
 - macOS Catalina 10.15.6 
-- macOS Big Sur 11 Beta
+- ~~macOS Big Sur 11 Beta~~ 因退回10.15.6系统，暂不测试
 
 </details>
 
@@ -56,8 +56,6 @@
 * 各硬件信息
 ![各硬件信息](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/4.png)
 
-* 仿冒显卡信息
-![仿冒显卡信息](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/5.png)
 
 * CPU跑分
 ![CPU跑分](https://raw.githubusercontent.com/AndroidDeals/i510500es-MSIB460m-Mortar-Hackintosh/master/screenshots/cpu.png)
