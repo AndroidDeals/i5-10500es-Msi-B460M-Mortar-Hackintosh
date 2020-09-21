@@ -3,9 +3,9 @@
 
 <details>
   <summary>支持的系统版本</summary>
-  
+- ~~macOS Big Sur 11 Beta~~ 因退回10.15.6系统，暂不测试  
 - macOS Catalina 10.15.6 
-- ~~macOS Big Sur 11 Beta~~ 因退回10.15.6系统，暂不测试
+
 
 </details>
 
