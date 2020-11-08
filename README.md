@@ -1,11 +1,15 @@
-# i5-10500es-Opencore0.6.1-Hackintosh
+# i5-10500es-Hackintosh
+
+日常自用EFI，有时候也直接搬运大佬的EFI用🤣，和我的配置一样使用就木有问题。🤣
+
+
 
 
 <details>
   <summary>支持的系统版本</summary>
   
-- ~~macOS Big Sur 11 Beta~~ 因退回10.15.6系统，暂不测试  
-- macOS Catalina 10.15.6 
+- ~~macOS Big Sur 11 Beta~~ 因退回10.15.x系统，暂不测试  
+- macOS Catalina 10.15.7 
 
 
 </details>
@@ -29,9 +33,18 @@
 
 起初主板用的是昂达B460SD4，性价比超高。现换成微星B460M迫击炮😁，原因是昂达的BIOS太复杂，设置之后它自杀了，直接黑屏。所以千万不要去胡乱设置昂达的BIOS，以免造成不必要的麻烦。
 
+[EFI下载地址](https://github.com/AndroidDeals/EFI/releases/)
+
+1. 如果你的显示器是高分辨率，那么NVRAM→UIScale 数值改为02 开机苹果logo就会正常比例显示，否则很小很小。1080p值为01。
+2. 跑码模式 NVRAM→boot-args 里面 加 -v即可，根据需要调整。
+
 
 - 测试可用的功能
- - [x] 睡眠/唤醒 `唤醒需要按电源键`
+
+```diff
+- 切记一定一定一定要关闭BIOS里面的USB唤醒,否则睡眠秒唤醒。
+```
+ - [x] 睡眠/唤醒 `唤醒需要按电源键`  
  - [x] 核显硬件加速 `完全支持，不行请调整自己的缓冲帧`
  - [x] 板载声卡 `测试可用`
  - [x] 板载USB端口 `板载USB端口测试都可以用，机箱USB接口最好自己定制`
